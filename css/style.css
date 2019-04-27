@@ -1,6 +1,4 @@
-navbar{
-    filter: drop-shadow(1px 1px 5px #000);
-}
+
 
 .navbar-position{
     display: flex;
@@ -149,4 +147,8 @@ a{
 
 .panel{
     background-color: #000;
+}
+
+.jumbotron {
+    margin-top: 35px;
 }
