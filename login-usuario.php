@@ -3,7 +3,7 @@
 ?>
 
     <div class="container container-center">
-        <form action="autenticar-usuario">
+        <form action="autentica-usuario.php">
             <legend>Login</legend>
 
             <div class="form-group">
