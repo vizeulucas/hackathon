@@ -1,0 +1,22 @@
+navbar{
+    filter: drop-shadow(1px 1px 5px #000);
+}
+
+.navbar-position{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-itens-positions:first-child{
+    margin-left: 50px
+}
+
+.navbar-itens-positions:last-child{
+    margin-right: 50px;
+    padding: 10px 20px;
+}
+
+.logo{
+    width: 250px;
+    height: 40px;
+}
