@@ -1,7 +1,7 @@
 <?php 
   
     include('cabecalho.php');
-    
+
 ?>
 
         <section class=index-section>
@@ -16,7 +16,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-3 cta-button">
-                                    <a href="#" class="button-index btn btn-outline-warning">Saiba Mais</a>
+                                    <a href="sobre.php" class="button-index btn btn-outline-warning">Saiba Mais</a>
                                     <a href="cadastro.php"><button class="button-index btn btn-warning">Cadastrar</button></a>
                                 </div>
                             </div>

@@ -10,7 +10,7 @@
 <body>
     <header>
         <navbar class="navbar navbar-expand-lg navbar-light bg-light navbar-position">
-            <a class="navbar-brand navbar-itens-positions" href="index.php"><img src="img/restarter-07.png" alt="" class="img-fluid logo"></a>
+            <a class="navbar-brand navbar-itens-positions" href="painel-usuario.php"><img src="img/restarter-07.png" alt="" class="img-fluid logo"></a>
             <a href="painel-usuario.php" ><button type="button" class="btn btn-primary navbar-itens-positions">perfil</button></a>
         </navbar>
         </ul>
