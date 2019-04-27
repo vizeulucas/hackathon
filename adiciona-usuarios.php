@@ -2,7 +2,7 @@
     include("conexao.php");
 
     function insereUsuario($user, $password, $nome, $email, $tel, $cpf, $ensino, $conexao){
-        $query = "insert into users value('{$nome}', '{$tel}','{$email}','{$cpf}', {$user}, '{$password}', '{$ensino}');";
+        $query = "insert into users value('{$nome}', '{$tel}','{$email}','{$cpf}', '{$user}', '{$password}', '{$ensino}');";
         return mysqli_query($conexao, $query);
     } 
 

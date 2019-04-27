@@ -2,4 +2,4 @@
 
     include('conexao.php');
 
-    include('cabecalho.php');
+    include('cabecalho-logado.php');

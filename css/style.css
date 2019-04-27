@@ -33,6 +33,15 @@ navbar{
     justify-content: center;
 }
 
+.button-index{
+    text-align: center;
+    width: 120px;
+}
+
+.button-index:first-child{
+    margin-bottom: 20px;
+}
+
 .bs-calltoaction{
     position: relative;
     width:auto;
@@ -98,8 +107,8 @@ navbar{
 
 .bs-calltoaction.bs-calltoaction-info{
     color: #fff;
-    background-color: #5bc0de;
-    border-color: #46b8da;
+    background-color: #23272B;
+    border-color: #262829;
 }
 
 .bs-calltoaction.bs-calltoaction-primary .cta-button .btn,
@@ -121,4 +130,19 @@ navbar{
 
 a{
     color: #fff;
+}
+
+.index-section{
+    background-image: url('../img/Carteira\ de\ Trabalho.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.section-login{
+    background-color: #007bff;
+}
+
+.login-div{
+    background-color: #fff;
 }
