@@ -152,3 +152,11 @@ a{
 .jumbotron {
     margin-top: 35px;
 }
+
+.success-cand-notif > a {
+    color: #000;
+}
+
+.btn-pessoa{
+    margin-right: 15px;
+}

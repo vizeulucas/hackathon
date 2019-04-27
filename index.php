@@ -17,7 +17,7 @@
                                 </div>
                                 <div class="col-md-3 cta-button">
                                     <a href="sobre.php" class="button-index btn btn-outline-warning">Saiba Mais</a>
-                                    <a href="cadastro.php"><button class="button-index btn btn-warning">Cadastrar</button></a>
+                                    <a href="cadastro-para.php"><button class="button-index btn btn-warning">Cadastrar</button></a>
                                 </div>
                             </div>
                         </div>

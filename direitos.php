@@ -3,6 +3,8 @@
     include('cabecalho-logado.php');
  ?>
   
+
+		<div class="container">
 		<h1>Direitos do Ex-Detento</h1>
 
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id metus mauris. Aenean pellentesque ligula pharetra ligula fermentum, et tempus ex convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec aliquam, urna eu ultrices molestie, tortor arcu iaculis nisi, eget volutpat ante ante eget justo. Curabitur ut lorem non risus vehicula pharetra ac a nunc. Etiam quis scelerisque ligula. Maecenas eget cursus magna. Vivamus interdum, eros auctor facilisis molestie, eros eros tristique dui, vel tincidunt sapien nunc sit amet diam. Quisque ut tincidunt odio.
@@ -16,5 +18,9 @@
 				In scelerisque ex at enim posuere, et porta est hendrerit. Donec gravida turpis a elit ornare, non laoreet metus imperdiet. Aenean pulvinar cursus ipsum. Nam vulputate enim urna, sed egestas justo elementum et. Curabitur aliquet fermentum molestie. Nunc vehicula ullamcorper massa. Nullam at turpis nisl. Vivamus erat quam, congue ut viverra ac, auctor non ex. Nullam ac magna augue.
 
 				Generated 5 paragraphs, 400 words, 2718 bytes of Lorem Ipsum</p>
+
+				<a class="btn btn-primary btn-lg" href="painel-usuario.php" role="button">Voltar</a>
+
+			</div>
 	</body>
 </html>				
