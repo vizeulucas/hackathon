@@ -10,8 +10,8 @@
 <body>
     <header>
         <navbar class="navbar navbar-expand-lg navbar-light bg-light navbar-position">
-            <a class="navbar-brand navbar-itens-positions" href="#"><img src="img/restarter-07.png" alt="" class="img-fluid logo"></a>
-            <button type="button" class="btn btn-primary navbar-itens-positions">login</button>
+            <a class="navbar-brand navbar-itens-positions" href="index.php"><img src="img/restarter-07.png" alt="" class="img-fluid logo"></a>
+            <a href="login-usuario.php"><button type="button" class="btn btn-primary navbar-itens-positions">login</button></a>
         </navbar>
         </ul>
     </header>
