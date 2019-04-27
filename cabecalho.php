@@ -15,5 +15,3 @@
         </navbar>
         </ul>
     </header>
-</body>
-</html>
