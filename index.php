@@ -1,11 +1,8 @@
 <?php 
     include("cabecalho.php");
 ?>
-<div class="container">
+    <div class="container container-center">
             <div class="col-sm-12">
-
-                
-
                 <div class="bs-calltoaction bs-calltoaction-info">
                     <div class="row">
                         <div class="col-md-9 cta-contents">
@@ -21,9 +18,6 @@
                         </div>
                      </div>
                 </div>
-
-               
-
             </div>
         </div>
 

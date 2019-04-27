@@ -26,6 +26,13 @@ navbar{
     text-align: center;
 }
 
+.container-center{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .bs-calltoaction{
     position: relative;
     width:auto;
@@ -81,7 +88,6 @@ navbar{
         .bs-calltoaction > .row > [class*=" col-"]{
             float:none;
             display:block;
-            vertical-align:middle;
             position: relative;
         }
 
@@ -102,4 +108,13 @@ navbar{
 .bs-calltoaction.bs-calltoaction-warning .cta-button .btn,
 .bs-calltoaction.bs-calltoaction-danger .cta-button .btn{
     border-color:#fff;
+}
+
+#form{
+    background-color: #5bc0de;
+}
+
+.form-container{
+    background-color: #fff;
+    padding-bottom: 5px;
 }
