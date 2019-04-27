@@ -33,8 +33,18 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="pass">Nome</label>
+                    <label for="pass">Senha</label>
                     <input type="password" name="pass" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <p>Qual </p>
+                    <select name="escolaridade">
+                        <option value="ensino fundamental">Ensino Fundamental</option>
+                        <option value="ensino medio">Ensino Medio</option>
+                        <option value="ensino superior">Ensino Superior</option>
+                        <option value="nehuma">Nenhuma</option>
+                    </select>
                 </div>
 
                 <input type="submit" class="btn btn-primary">
