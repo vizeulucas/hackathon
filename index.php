@@ -1,8 +1,6 @@
 <?php 
     include("cabecalho.php");
 ?>
-
-<<<<<<< HEAD
 <div class="container">
             <div class="col-sm-12">
 
@@ -30,7 +28,5 @@
         </div>
 
     </body>
-=======
-    <h1>teste</h1>
->>>>>>> 9b661b0565a1fc439597ebcbe53405203ccf1d5d
+
 </html>

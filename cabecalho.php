@@ -15,7 +15,3 @@
         </navbar>
         </ul>
     </header>
-<<<<<<< HEAD:cabecalho.php
-=======
-</body>
->>>>>>> 9b661b0565a1fc439597ebcbe53405203ccf1d5d:cabecalho.php
