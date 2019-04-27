@@ -20,7 +20,7 @@
 ?>
         <div class="alert alert-success d-flex justify-content-around align-items-center" role="alert" style="margin-top: 1px">
             Cadastro feito com sucesso!
-            <button class="btn btn-primary">Ir para o painel</button>
+            <a href="login-usuario.php"><button class="btn btn-primary">Ir para o Login</button></a>
         </div>
     </body>
 </html>
